@@ -3,3 +3,4 @@
 <img src="https://img.shields.io/badge/Estado-En_Desarrollo-green">
 Para ejecutar el sistema:
 '''nmp install react'''
+sistema de registro 2
